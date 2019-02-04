@@ -1,0 +1,19 @@
+{
+  "name": "study-javascript",
+  "version": "1.0.0",
+  "description": "Study JavaScript",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayamarschalko/study-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayamarschalko/study-javascript/issues"
+  },
+  "homepage": "https://github.com/mayamarschalko/study-javascript#readme"
+}
